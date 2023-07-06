@@ -1,0 +1,22 @@
+body{
+	font-family: sans-serif;
+	background-color: rgb(37, 41, 54);
+	color: grey
+}
+header {
+	background: rgb(64, 71, 97);
+	color: gray;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+.logo{
+	color: rgb(154, 174, 241);
+	font-size: 60px;
+}
+.links a{
+	display:   inline-block;
+        margin:    10px 50px;
+	text-decoration: none
+}
