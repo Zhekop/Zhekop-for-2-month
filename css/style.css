@@ -1,22 +1,61 @@
 body{
 	font-family: sans-serif;
-	background-color: rgb(37, 41, 54);
-	color: grey
+	background-color: #3B81C8;
+	color: #235991;
 }
-header {
-	background: rgb(64, 71, 97);
-	color: gray;
-	text-align: center;
-}
+
 h1{
+	font-size: 350px;
 	text-align: center;
 }
-.logo{
-	color: rgb(154, 174, 241);
-	font-size: 60px;
+
+h2{
+	font-size: 120px;
+	margin-top: 3%;
+}	
+
+.img1{
+	height: 45%;
+	width: 30%;
+	margin-left: 5px;
+	margin-top: 5px;
+	border-radius: 40px;
 }
-.links a{
-	display:   inline-block;
-        margin:    10px 50px;
-	text-decoration: none
+.item{
+	text-align: center;
+}
+.first{
+	text-align: center;
+	margin-top: 50%;
+	margin-bottom: 90%;
+}
+.second{
+	text-align: center;
+	margin-top: 90%;
+}
+.conteiner{
+	display: flex;
+	justify-content: space-between;
+	padding: 3em;
+	box-sizing: border-box;
+}
+.text{
+	background-color: #032445;
+	border-radius: 70px;
+}
+.img{
+	text-align: center;
+	background-color: #032445;
+	border-radius: 70px;
+}
+.top-img{
+	height: 70px;
+}
+
+.bot{
+	height: 70px;
+}
+.love{
+	background-color: #032445;
+	border-radius: 70px;
 }
